@@ -1,0 +1,4 @@
+com/elasticsearch/bulkinsert/webservices/App.class
+com/elasticsearch/bulkinsert/constants/IConstants.class
+com/elasticsearch/bulkinsert/webservices/Bulk.class
+com/elasticsearch/helper/Util.class
